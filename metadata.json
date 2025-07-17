@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ultimate Calculator",
+  "description": "A professional, modular calculator with basic, scientific, graphing, and programming modes. Features include themes, history, and a modern UI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
